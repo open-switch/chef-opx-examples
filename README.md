@@ -59,5 +59,4 @@ Copy the sample cookbooks in cookbooks directory to ``~/chef-repo/cookbooks`` in
 	Execute the run_list of the node (chef client)
 		knife ssh 'name:opx_node' 'sudo chef-client'
 
-
-Copyright (c) 2018, Dell EMC. All rights reserved.
+(c) 2018 Dell Inc. or its subsidiaries. All Rights Reserved.

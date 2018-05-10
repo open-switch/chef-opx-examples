@@ -89,4 +89,4 @@ Copy all four rb files to the ``~/chef-repo/roles`` directory.
 - https://docs.chef.io/resource_reference.html
 - https://docs.chef.io/roles.html
 
-Copyright (c) 2018, Dell EMC. All rights reserved.
+(c) 2018 Dell Inc. or its subsidiaries. All Rights Reserved.

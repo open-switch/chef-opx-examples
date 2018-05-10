@@ -52,5 +52,4 @@ Copy the ``lldp`` folder to the ``~/chef-repo/cookbooks`` directory.
 - https://docs.chef.io/resource_cookbook_file.html
 - https://docs.chef.io/resource_service.html
 
-
-Copyright (c) 2018, Dell EMC. All rights reserved.
+(c) 2018 Dell Inc. or its subsidiaries. All Rights Reserved.
